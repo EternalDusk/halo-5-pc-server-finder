@@ -7,7 +7,7 @@ Built using **Python 3.12.7**.
 ---
 
 ## How to Run the Program
-1. **Download the latest release** from the [Releases](#) section.  
+1. **Download the latest release** from the [Releases](https://github.com/EternalDusk/halo-5-pc-server-finder/releases) section.  
 2. **Run the program as administrator.**  
    ⚠ Elevated privileges are required to sniff packets. Make sure to run the script in an Administrator Command Prompt.
 3. The IP of the server you're connected to will be displayed. That's it!
